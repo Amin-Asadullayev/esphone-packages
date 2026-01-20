@@ -1,0 +1,2 @@
+(def main (lambda (args)
+  (println "Hello World!")))
