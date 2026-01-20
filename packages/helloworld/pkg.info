@@ -1,5 +1,5 @@
 name=Hello world
 version=1
-entry=helloworld.txt
+entry=helloworld.lesp
 depends=
 desc=A simple hello world program
