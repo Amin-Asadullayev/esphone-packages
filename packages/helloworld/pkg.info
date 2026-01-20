@@ -1,0 +1,5 @@
+name=Hello world
+version=1
+entry=helloworld.txt
+depends=
+desc=A simple hello world program
