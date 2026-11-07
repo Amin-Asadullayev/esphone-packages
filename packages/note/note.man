@@ -1,0 +1,20 @@
+NAME
+  note - keep short notes
+
+USAGE
+  note
+  note add TEXT...
+  note clear
+
+DESCRIPTION
+  note shows your notes, numbered.
+  note add saves a new one.
+  note clear deletes them all.
+
+  Notes are kept in
+  /pkg/note/notes.txt and survive
+  upgrades and pkg remove.
+
+EXAMPLES
+  note add buy milk
+  note

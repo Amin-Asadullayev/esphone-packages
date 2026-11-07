@@ -1,0 +1,3 @@
+weather.c
+weather.man
+city.txt

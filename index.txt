@@ -1,0 +1,6 @@
+hello      1.0   Prints a greeting
+fortune    1.0   Shows a random saying
+uptime     1.0   Time since boot and free memory
+note       1.0   Keep short notes: note add TEXT, note, note clear
+textutils  1.0   wc, head and grep for text files
+weather    1.0   Current weather from wttr.in

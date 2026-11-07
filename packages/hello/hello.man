@@ -1,0 +1,12 @@
+NAME
+  hello - say hello
+
+USAGE
+  hello [NAME]
+
+DESCRIPTION
+  Prints a greeting to NAME, or to the
+  world.
+
+EXAMPLES
+  hello Bob

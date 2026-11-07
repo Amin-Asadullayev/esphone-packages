@@ -1,0 +1,3 @@
+fortune.c
+fortune.man
+sayings.txt

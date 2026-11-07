@@ -1,0 +1,19 @@
+NAME
+  grep - find lines in files
+
+USAGE
+  grep [-i] [-n] WORD FILE...
+
+DESCRIPTION
+  Prints the lines that contain WORD.
+  With several files, each line starts
+  with its file name.
+
+  -i  ignore upper/lower case
+  -n  show line numbers
+
+EXAMPLES
+  grep -i wifi /autoexec.esp
+
+SEE ALSO
+  wc, head

@@ -1,0 +1,15 @@
+NAME
+  head - show the start of a file
+
+USAGE
+  head [-n N] FILE
+
+DESCRIPTION
+  Prints the first N lines of FILE
+  (default 10).
+
+EXAMPLES
+  head -n 3 /autoexec.esp
+
+SEE ALSO
+  wc, grep

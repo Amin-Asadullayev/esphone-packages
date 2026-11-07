@@ -1,0 +1,15 @@
+NAME
+  wc - count lines, words, bytes
+
+USAGE
+  wc FILE...
+
+DESCRIPTION
+  Prints the number of lines, words
+  and bytes in each FILE.
+
+EXAMPLES
+  wc /autoexec.esp
+
+SEE ALSO
+  head, grep

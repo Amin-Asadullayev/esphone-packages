@@ -1,0 +1,12 @@
+NAME
+  uptime - time since boot
+
+USAGE
+  uptime
+
+DESCRIPTION
+  Shows how long the board has been
+  running and how much memory is free.
+
+SEE ALSO
+  free

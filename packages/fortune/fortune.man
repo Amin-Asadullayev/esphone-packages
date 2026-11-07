@@ -1,0 +1,11 @@
+NAME
+  fortune - show a random saying
+
+USAGE
+  fortune
+
+DESCRIPTION
+  Prints a random line from
+  /pkg/fortune/sayings.txt. Add your
+  own sayings to that file, one per
+  line (up to 32).

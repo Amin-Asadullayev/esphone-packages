@@ -1,0 +1,6 @@
+wc.c
+head.c
+grep.c
+wc.man
+head.man
+grep.man

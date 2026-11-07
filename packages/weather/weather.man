@@ -1,0 +1,21 @@
+NAME
+  weather - current weather
+
+USAGE
+  weather [CITY]
+
+DESCRIPTION
+  Shows the weather from wttr.in:
+  condition, temperature and wind.
+  Needs WiFi.
+
+  Without CITY, uses the city in
+  /pkg/weather/city.txt. Quote names
+  with spaces.
+
+EXAMPLES
+  weather
+  weather "New York"
+
+SEE ALSO
+  wifi
